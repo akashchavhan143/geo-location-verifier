@@ -1,0 +1,162 @@
+.profile-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20;
+}
+
+.profile-card {
+  width: 100%;
+  max-width: 900px;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  padding: 24px;
+}
+
+.profile-header {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  margin-bottom: 20px;
+}
+
+.header-text {
+  text-align: left;
+}
+
+.name {
+  font-size: 26px;
+  color: #007bff; /* Blue color */
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.role-text {
+  font-size: 16px;
+  color: #777;
+}
+
+.social-icon.linkedin {
+  color: #0077b5; /* LinkedIn Blue */
+  background: white;
+  border-radius: 50%;
+  padding: 4px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+}
+
+.social-icon.linkedin:hover {
+  background-color: #e6f0fa;
+  transform: scale(1.2) rotate(10deg);
+}
+
+.profile-descriptions {
+  margin-bottom: 20px;
+}
+
+.divider {
+  font-weight: bold;
+  color: #ff69b4;
+}
+
+.summary-text {
+  font-size: 16px;
+  color: #555;
+  line-height: 1.6;
+  text-align: justify;
+}
+
+.action-section {
+  text-align: right;
+  margin-top: 30px;
+}
+
+button {
+  border-radius: 8px;
+  padding: 10px 20px;
+  background-color: #ff69b4;
+  border: none;
+}
+
+button:hover {
+  background-color: #ff4081;
+}
+
+/* Custom styling for "Achievements" heading */
+.heading-with-icon {
+  display: flex;
+  align-items: center;
+  font-size: 15px;
+  font-weight: bold;
+  color: #ff6347; /* Tomato color */
+}
+
+.heading-with-icon .heading-text {
+  margin-left: 10px;
+  color: #9447ff; /* Tomato color */
+}
+
+/* Responsive layout */
+@media (max-width: 768px) {
+  .profile-container {
+    padding: 20px;
+  }
+
+  .profile-card {
+    padding: 16px;
+  }
+
+  .profile-header {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .header-text {
+    text-align: center;
+  }
+
+  .action-section {
+    text-align: center;
+  }
+}
+
+/* Colorful icons */
+.icon-contact {
+  color: #007bff; /* Blue */
+  font-size: 24px;
+  transition: transform 0.3s ease;
+}
+
+.icon-contact:hover {
+  transform: scale(1.2);
+}
+
+.icon-mail {
+  color: #ff4081; /* Pink */
+}
+
+.icon-phone {
+  color: #ffa500; /* Orange */
+}
+
+.icon-location {
+  color: #32cd32; /* Lime Green */
+}
+
+/* Styling for Descriptions Items */
+.profile-descriptions .ant-descriptions-item-label {
+  font-weight: bold;
+  color: #555;
+}
+
+.profile-descriptions .ant-descriptions-item-content {
+  color: #333;
+}
+
+/* Add shadow effect to icons when hovered */
+.icon-mail:hover,
+.icon-phone:hover,
+.icon-location:hover {
+  transform: scale(1.2);
+}

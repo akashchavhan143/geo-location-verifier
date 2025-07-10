@@ -1,0 +1,6 @@
+/* Default: hide on small screens (≤ 500px) */
+@media (max-width: 700px) {
+  .sidebar {
+    display: none;
+  }
+}
