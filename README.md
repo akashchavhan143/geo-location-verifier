@@ -64,33 +64,21 @@ In fields like **auditing, inspections, delivery services, journalism**, and **l
 - 🌐 Deploy as a PWA (Progressive Web App).
 
 ---
----
 
 ## 📸 Screenshots
 
-| Feature/Screen                | Preview                                              |
-|------------------------------|------------------------------------------------------|
-| Image Upload Interface       | ![](screenshorts/Screenshot%20(509).png)             |
-| Metadata Extraction          | ![](screenshorts/Screenshot%20(510).png)             |
-| Distance Result Display      | ![](screenshorts/Screenshot%20(511).png)             |
-| Success Notification         | ![](screenshorts/Screenshot%20(512).png)             |
-| Missing GPS Warning          | ![](screenshorts/Screenshot%20(513).png)             |
-| Mobile View                  | ![](screenshorts/Screenshot%20(514).png)             |
-| Upload Section               | ![](screenshorts/Screenshot%20(515).png)             |
-| Drag and Drop UI             | ![](screenshorts/Screenshot%20(516).png)             |
-| Real-time Alerts             | ![](screenshorts/Screenshot%20(517).png)             |
-| Matched Coordinates View     | ![](screenshorts/Screenshot%20(518).png)             |
-| Mismatched Coordinates View  | ![](screenshorts/Screenshot%20(519).png)             |
-| Decimal Conversion Output    | ![](screenshorts/Screenshot%20(520).png)             |
-| UI Components Overview       | ![](screenshorts/Screenshot%20(521).png)             |
-| Parsed GPS Data              | ![](screenshorts/Screenshot%20(522).png)             |
-| Match Failed Message         | ![](screenshorts/Screenshot%20(523).png)             |
-| Console Debug Logs           | ![](screenshorts/Screenshot%20(524).png)             |
-| Theme Preview (Light/Dark)   | ![](screenshorts/Screenshot%20(525).png)             |
-| Final Output Screen          | ![](screenshorts/Screenshot%20(526).png)             |
-| Form Validation Alerts       | ![](screenshorts/Screenshot%20(527).png)             |
-| Haversine Formula Logic      | ![](screenshorts/Screenshot%20(528).png)             |
-| Complete Workflow            | ![](screenshorts/Screenshot%20(529).png)             |
+| ![](screenshorts/Screenshot%20(509).png) | ![](screenshorts/Screenshot%20(510).png) |
+|------------------------------------------|------------------------------------------|
+| ![](screenshorts/Screenshot%20(511).png) | ![](screenshorts/Screenshot%20(512).png) |
+| ![](screenshorts/Screenshot%20(513).png) | ![](screenshorts/Screenshot%20(514).png) |
+| ![](screenshorts/Screenshot%20(515).png) | ![](screenshorts/Screenshot%20(516).png) |
+| ![](screenshorts/Screenshot%20(517).png) | ![](screenshorts/Screenshot%20(518).png) |
+| ![](screenshorts/Screenshot%20(519).png) | ![](screenshorts/Screenshot%20(520).png) |
+| ![](screenshorts/Screenshot%20(521).png) | ![](screenshorts/Screenshot%20(522).png) |
+| ![](screenshorts/Screenshot%20(523).png) | ![](screenshorts/Screenshot%20(524).png) |
+| ![](screenshorts/Screenshot%20(525).png) | ![](screenshorts/Screenshot%20(529).png) |
+| ![](screenshorts/Screenshot%20(527).png) |                                          |
+
 
 > 📂 Make sure all screenshots are saved in a `screenshots` folder within your GitHub repo.
 
