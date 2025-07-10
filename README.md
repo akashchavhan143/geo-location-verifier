@@ -64,6 +64,35 @@ In fields like **auditing, inspections, delivery services, journalism**, and **l
 - 🌐 Deploy as a PWA (Progressive Web App).
 
 ---
+---
+
+## 📸 Screenshots
+
+| Feature/Screen                | Preview                                              |
+|------------------------------|------------------------------------------------------|
+| Image Upload Interface       | ![](screenshots/Screenshot%20(509).png)             |
+| Metadata Extraction          | ![](screenshots/Screenshot%20(510).png)             |
+| Distance Result Display      | ![](screenshots/Screenshot%20(511).png)             |
+| Success Notification         | ![](screenshots/Screenshot%20(512).png)             |
+| Missing GPS Warning          | ![](screenshots/Screenshot%20(513).png)             |
+| Mobile View                  | ![](screenshots/Screenshot%20(514).png)             |
+| Upload Section               | ![](screenshots/Screenshot%20(515).png)             |
+| Drag and Drop UI             | ![](screenshots/Screenshot%20(516).png)             |
+| Real-time Alerts             | ![](screenshots/Screenshot%20(517).png)             |
+| Matched Coordinates View     | ![](screenshots/Screenshot%20(518).png)             |
+| Mismatched Coordinates View  | ![](screenshots/Screenshot%20(519).png)             |
+| Decimal Conversion Output    | ![](screenshots/Screenshot%20(520).png)             |
+| UI Components Overview       | ![](screenshots/Screenshot%20(521).png)             |
+| Parsed GPS Data              | ![](screenshots/Screenshot%20(522).png)             |
+| Match Failed Message         | ![](screenshots/Screenshot%20(523).png)             |
+| Console Debug Logs           | ![](screenshots/Screenshot%20(524).png)             |
+| Theme Preview (Light/Dark)   | ![](screenshots/Screenshot%20(525).png)             |
+| Final Output Screen          | ![](screenshots/Screenshot%20(526).png)             |
+| Form Validation Alerts       | ![](screenshots/Screenshot%20(527).png)             |
+| Haversine Formula Logic      | ![](screenshots/Screenshot%20(528).png)             |
+| Complete Workflow            | ![](screenshots/Screenshot%20(529).png)             |
+
+> 📂 Make sure all screenshots are saved in a `screenshots` folder within your GitHub repo.
 
 ## 🧑‍💻 How to Run Locally
 
