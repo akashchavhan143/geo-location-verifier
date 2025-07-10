@@ -56,14 +56,6 @@ In fields like **auditing, inspections, delivery services, journalism**, and **l
 
 ---
 
-## 🚫 Limitations
-
-- ❌ Requires valid GPS data in both images.
-- ❌ No backend or database support (yet).
-- ❌ Does not detect advanced forgeries like deepfakes.
-
----
-
 ## 🔮 Future Enhancements
 
 - 💾 Optional backend support to **store verification logs**.
